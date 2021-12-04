@@ -7,8 +7,7 @@ import console
 from pyfiglet import Figlet
 # from  multiprocessing import Pool
 
-
-from poc import E_Bridge_Arbitrary_File_Read, E_Cology_WorkflowServiceXml_RCE, E_Cology_V8_Sql, \
+import E_Bridge_Arbitrary_File_Read, E_Cology_WorkflowServiceXml_RCE, E_Cology_V8_Sql, \
     Weaver_Common_Ctrl_Upload, Bsh_RCE, WorkflowCenterTreeData_Sql, E_Cology_Database_Leak, e_officeV9
 
 BLUE = '\033[0;36m'
