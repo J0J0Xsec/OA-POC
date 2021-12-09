@@ -12,3 +12,10 @@ POC都来源于网上收集，也会有自己的POC。
 
 ![image](https://user-images.githubusercontent.com/82875988/144952145-bfbde2b7-dc82-46ab-a074-b94f72b3b88f.png)
 
+
+2021.12.9做了一次更新
+增加泛微e-mobile6.6 SQL H2注入
+![image](https://user-images.githubusercontent.com/82875988/145391516-08c095b2-00e7-4438-a08e-275e130e3473.png)
+
+
+![492a248e9efe8fda2ac21ddef9dfd06](https://user-images.githubusercontent.com/82875988/145391569-c96fa3b5-5d6e-4129-a958-20c554c75fa0.png)
