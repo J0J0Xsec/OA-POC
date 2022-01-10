@@ -19,3 +19,7 @@ POC都来源于网上收集，也会有自己的POC。
 
 
 ![492a248e9efe8fda2ac21ddef9dfd06](https://user-images.githubusercontent.com/82875988/145391569-c96fa3b5-5d6e-4129-a958-20c554c75fa0.png)
+
+2022.1.10更新SQL注入
+
+![QQ截图20220110194249](https://user-images.githubusercontent.com/82875988/148760805-4925375e-e2a7-4656-8780-18ac440de0f2.png)
